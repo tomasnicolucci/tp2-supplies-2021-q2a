@@ -41,7 +41,11 @@ Si ya terminaste o son las 10:00 asegurate de seguir los siguientes pasos para l
 
 ## Listado de endpoint
 - /api/sales
-
+- /api/sales/:id
+- /api/sales/purchaseMethod/:tipoCompra
+- /api/sales/customer/:email
+- /api/sales/insatisfechos/satis
+- /api/sales/localizacion/:lugar
 
 
 
